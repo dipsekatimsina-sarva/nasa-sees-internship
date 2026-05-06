@@ -76,4 +76,4 @@ Thank you to mentor Debbie Reynolds and the NASA SEES program team at the Univer
 
 ## License
 
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the MIT License.
